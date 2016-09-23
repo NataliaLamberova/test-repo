@@ -3,6 +3,11 @@ PackratVersion: 0.4.8.1
 RVersion: 3.3.1
 Repos: CRAN=https://cran.rstudio.com/
 
+Package: maps
+Source: CRAN
+Version: 3.1.1
+Hash: 4a0a1b1764bfe2c41c6fc21790408caf
+
 Package: packrat
 Source: CRAN
 Version: 0.4.8-1
